@@ -10,6 +10,13 @@
 </p>
 <br>
 
+<hr>
+<p>개발은 혼자 하는 것이 아닌 함께하는 것에서 가치를 창출한다고 믿습니다. 서로 부족한 부분을 보완하고 도움을 주며 협력하면 더욱 견고한 개발을 할 수 있다고 생각합니다.
+
+  동료 2명과 VScode의 **Liveshare**를 활용한 페어프로그래밍으로 뮤직 플레이어를 구현하였으며 온라인으로도 페어프로그래밍이 가능하다는 것을 동기들에게 공유하여 **함께 성장함의 가치**를 전파한 경험이 있습니다.
+</p>
+<br>
+
 ## <p align='center'> My Skills
 
 <img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=HTML5&logoColor=white"/></a>
