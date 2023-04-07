@@ -30,7 +30,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SuHyun&custom_title=SuHyun's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuHyun&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">
+            <img src="https://github-readme-stats.vercel.app/api?username=IntHyun&show_icons=true&theme=vue" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntHyun&layout=compact&theme=vue" width="45%" /></div> 
     </div>
